@@ -1,0 +1,16 @@
+786 7437 1568
+
+JUW2020
+
+W5HH Principal - Barry Boehm Project Scop
+
+1) it decidies the scope of the project
+
+
+
+PRoject sizing based on,
+LOC(lines of code)
+KLOC(Thousand lines of code)
+FP(Functions point)
+OP(Object points)
+SP(
