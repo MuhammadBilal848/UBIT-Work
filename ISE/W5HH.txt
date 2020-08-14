@@ -13,4 +13,9 @@ LOC(lines of code)
 KLOC(Thousand lines of code)
 FP(Functions point)
 OP(Object points)
-SP(
+SP(story point)
+
+
+798 6993 4177
+ JUW2020
+http://softwarecost.org/tools/COCOMO/

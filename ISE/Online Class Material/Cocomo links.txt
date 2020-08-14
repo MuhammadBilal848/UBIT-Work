@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/COCOMO#:~:text=Intermediate%20COCOMOs,-Intermediate%20COCOMO%20computes&text=Typical%20values%20for%20EAF%20range%20from%200.9%20to%201.4.&text=The%20Intermediate%20Cocomo%20formula%20now,is%20the%20factor%20calculated%20above
+
+http://groups.umd.umich.edu/cis/course.des/cis525/js/f00/gamel/cocomo.html
