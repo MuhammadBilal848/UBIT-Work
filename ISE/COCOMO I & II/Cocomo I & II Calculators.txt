@@ -1,0 +1,2 @@
+http://groups.umd.umich.edu/cis/tinytools/cocomo.html (cocomo I)
+http://softwarecost.org/tools/COCOMO/ (cocomo II)
